@@ -8,4 +8,3 @@ run `./add_link.py` to be put into a prompt to add the title of the link and a u
 
 run `make deploy` to deploy this site.
 
-## Ignore site dir.
