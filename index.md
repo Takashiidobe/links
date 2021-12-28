@@ -39,11 +39,16 @@
 - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html) [Backup](./backups/norvig.com/lispy.html)
 - [Build your own Lisp](http://www.buildyourownlisp.com/contents) [Backup](./backups/www.buildyourownlisp.com/contents.html)
 
+## Databases
+
+- [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
+
 ## Programming Languages
 
 ### C
 
 - [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) [Backup](./backups/beej.us/guide/bgc/html/index.html)
+- [Notes on Data Structures and Programming Techniques](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) [Backup](./backups/www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
 ### Haskell
 
@@ -86,5 +91,5 @@
 - [Equity 101 Part 2](https://carta.com/blog/equity-101-stock-economics/) [Backup](./backups/carta.com/blog/equity-101-stock-economics/index.html)
 - [Questions to ask Potential Employers](https://github.com/randsleadershipslack/employer-test) [Backup](./backups/github.com/randsleadershipslack/employer-test/index.html)
 - [23 Rules to run a Software Startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle) [Backup](./backups/www.joisig.com/rules-software-startup-minimum-hassle.html)
-- [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
-
+- [Lethain's Favorite Technical Papers](https://lethain.com/some-of-my-favorite-technical-papers/) [Backup](./backups/lethain.com/some-of-my-favorite-technical-papers/index.html)
+- [Lethain's Book Recommendations](https://lethain.com/best-books/) [Backup](./backups/lethain.com/best-books/index.html)
