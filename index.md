@@ -93,3 +93,4 @@
 - [23 Rules to run a Software Startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle) [Backup](./backups/www.joisig.com/rules-software-startup-minimum-hassle.html)
 - [Lethain's Favorite Technical Papers](https://lethain.com/some-of-my-favorite-technical-papers/) [Backup](./backups/lethain.com/some-of-my-favorite-technical-papers/index.html)
 - [Lethain's Book Recommendations](https://lethain.com/best-books/) [Backup](./backups/lethain.com/best-books/index.html)
+- [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) [Backup](./backups/journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/index.html)
