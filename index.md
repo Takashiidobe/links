@@ -94,3 +94,5 @@
 - [Lethain's Favorite Technical Papers](https://lethain.com/some-of-my-favorite-technical-papers/) [Backup](./backups/lethain.com/some-of-my-favorite-technical-papers/index.html)
 - [Lethain's Book Recommendations](https://lethain.com/best-books/) [Backup](./backups/lethain.com/best-books/index.html)
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) [Backup](./backups/journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/index.html)
+- [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
+- [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
