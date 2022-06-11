@@ -96,3 +96,4 @@
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) [Backup](./backups/journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/index.html)
 - [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
 - [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
+- [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) [Backup](./backups/matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
