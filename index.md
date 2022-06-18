@@ -27,6 +27,7 @@
 
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/) [Backup](./backups/www.bigocheatsheet.com/index.html)
 - [CP Algorithms](https://cp-algorithms.com/index.html) [Backup](./backups/cp-algorithms.com/index.html)
+- [The Algorithm Design Manual](https://www3.cs.stonybrook.edu/~skiena/373/current-lectures/) [Backup](./backups/www3.cs.stonybrook.edu/\~skiena/373/current-lectures/index.html)
 
 ## Design Patterns
 
@@ -38,10 +39,13 @@
 - [Risp (in (Rust) (Lisp))](https://stopa.io/post/222) [Backup](./backups/stopa.io/post/222.html)
 - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html) [Backup](./backups/norvig.com/lispy.html)
 - [Build your own Lisp](http://www.buildyourownlisp.com/contents) [Backup](./backups/www.buildyourownlisp.com/contents.html)
+- [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) [Backup](./backups/matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
 
 ## Databases
 
 - [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
+- [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
+- [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
 
 ## Programming Languages
 
@@ -70,6 +74,8 @@
 ## Computer Networking
 
 - [Low-Level Academy](https://lowlvl.org/) [Backup](./backups/lowlvl.org/index.html)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) [Backup](./backups/beej.us/guide/bgnet/html/index.html)
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html) [Backup](./backups/book.systemsapproach.org/index.html)
 
 ## Distributed Systems
 
@@ -91,10 +97,19 @@
 - [Equity 101 Part 2](https://carta.com/blog/equity-101-stock-economics/) [Backup](./backups/carta.com/blog/equity-101-stock-economics/index.html)
 - [Questions to ask Potential Employers](https://github.com/randsleadershipslack/employer-test) [Backup](./backups/github.com/randsleadershipslack/employer-test/index.html)
 - [23 Rules to run a Software Startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle) [Backup](./backups/www.joisig.com/rules-software-startup-minimum-hassle.html)
-- [Lethain's Favorite Technical Papers](https://lethain.com/some-of-my-favorite-technical-papers/) [Backup](./backups/lethain.com/some-of-my-favorite-technical-papers/index.html)
+
+## Book Recommendations
+
 - [Lethain's Book Recommendations](https://lethain.com/best-books/) [Backup](./backups/lethain.com/best-books/index.html)
+
+## Paper Recommendations
+
+- [Lethain's Favorite Technical Papers](https://lethain.com/some-of-my-favorite-technical-papers/) [Backup](./backups/lethain.com/some-of-my-favorite-technical-papers/index.html)
+
+## Garbage Collection
+
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) [Backup](./backups/journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/index.html)
-- [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
-- [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
-- [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) [Backup](./backups/matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
-- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html) [Backup](./backups/book.systemsapproach.org/index.html)
+
+## Statistics
+
+- [Think Bayes](http://allendowney.github.io/ThinkBayes2/index.html) [Backup](./backups/allendowney.github.io/ThinkBayes2/index.html)
