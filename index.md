@@ -77,6 +77,10 @@
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) [Backup](./backups/beej.us/guide/bgnet/html/index.html)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html) [Backup](./backups/book.systemsapproach.org/index.html)
 
+## Operating Systems
+
+- [Beej's Guide to Unix IPC](https://beej.us/guide/bgipc/html/single/bgipc.html) [Backup](./backups/beej.us/guide/bgipc/html/single/bgipc.html)
+
 ## Distributed Systems
 
 - [Operating a Large, Distributed System in a Reliable Way: Practices I Learned](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/) [Backup](./backups/blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/index.html)
