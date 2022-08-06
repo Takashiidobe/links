@@ -117,3 +117,8 @@
 ## Statistics
 
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2/index.html) [Backup](./backups/allendowney.github.io/ThinkBayes2/index.html)
+
+## Assembly
+
+- [Some assembly Required](https://github.com/hackclub/some-assembly-required) [Backup](./backups/some-assembly-required/index.html)
+- [Ray Tracing in One Weekend](https://misterdanb.github.io/raytracinginrust/) [Backup](./backups/misterdanb.github.io/raytracinginrust/index.html)
