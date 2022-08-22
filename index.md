@@ -122,3 +122,6 @@
 
 - [Some assembly Required](https://github.com/hackclub/some-assembly-required) [Backup](./backups/some-assembly-required/index.html)
 - [Ray Tracing in One Weekend](https://misterdanb.github.io/raytracinginrust/) [Backup](./backups/misterdanb.github.io/raytracinginrust/index.html)
+- [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/) [Backup](./backups/cs.lmu.edu/~ray/notes/nasmtutorial/index.html)
+- [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) [Backup](./backups/www.philippflenker.com/hecto/index.html)
+- [Yarchive](https://yarchive.net) [Backup](./backups/yarchive.net/comp/index.html)
