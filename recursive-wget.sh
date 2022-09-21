@@ -6,4 +6,4 @@ fi
 
 domain=$(echo $1 | awk -F[/:] '{print $4}')
 
-wget --recursive --page-requisites --adjust-extension --span-hosts -P "./site/backups" --convert-links --restrict-file-names=windows --domains $domain --no-parent $1
+wget -R ppt,pptx --recursive --page-requisites --adjust-extension --span-hosts -P "./site/backups" --convert-links --restrict-file-names=windows --domains $domain --no-parent -c $1

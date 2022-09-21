@@ -1,3 +1,21 @@
+## Courses
+
+- [The Modern Algorithmic Toolbox](https://web.stanford.edu/class/cs168/index.html) [Backup](./backups/web.stanford.edu/class/cs168/index.html)
+- [Randomized Algorithms](https://www.cs.utexas.edu/~ecprice/courses/randomized/fa21/) [Backup](./backups/www.cs.utexas.edu/~ecprice/courses/randomized/fa21/index.html)
+- [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current/html/) [Backup](./backups/intronetworks.cs.luc.edu/current/html/index.html)
+- [Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) [Backup](./backups/ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/index.html)
+- [Advanced Data structures](https://courses.csail.mit.edu/6.851/spring21/lectures/) [Backup](./backups/courses.csail.mit.edu/6.851/spring21/lectures/index.html)
+- [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
+- [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/c6/) [Backup](./backups/ocw.mit.edu/courses/6-004-computation-structures-spring-2017/index.html)
+- [Introduction to Statistics](https://projects.iq.harvard.edu/stat110) [Backup](./backups/projects.iq.harvard.edu/stat110/index.html)
+- [Computer Networks](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) [Backup](./backups/computer-networks/index.html)
+- [Distributed Systems](http://nil.csail.mit.edu/6.824/2022/) [Backup](./backups/nil.csail.mit.edu/6.824/2022/index.html)
+- [Computer Architecture](https://course.ece.cmu.edu/~ece740/f15/doku.php) [Backup](./backups/course.ece.cmu.edu/~ece740/f15/index.html)
+- [The Algorithm Design Manual](https://www3.cs.stonybrook.edu/~skiena/373/) [Backup](./backups/www3.cs.stonybrook.edu/\~skiena/373/current-lectures.html)
+- [Performance Engineering](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) [Backup](./backups/ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/index.html)
+- [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) [Backup](./backups/ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/index.html)
+- [Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html) [Backup](./backups/people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
+
 ## Learning and Development
 
 - [The XY Problem](https://xyproblem.info/) [Backup](./backups/xyproblem.info/index.html)
@@ -27,7 +45,6 @@
 
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/) [Backup](./backups/www.bigocheatsheet.com/index.html)
 - [CP Algorithms](https://cp-algorithms.com/index.html) [Backup](./backups/cp-algorithms.com/index.html)
-- [The Algorithm Design Manual](https://www3.cs.stonybrook.edu/~skiena/373/current-lectures/) [Backup](./backups/www3.cs.stonybrook.edu/\~skiena/373/current-lectures/index.html)
 
 ## Design Patterns
 
@@ -43,7 +60,6 @@
 
 ## Databases
 
-- [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
 - [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
 - [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
 

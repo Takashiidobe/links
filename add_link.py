@@ -4,7 +4,7 @@ import os
 with open('index.md', 'a') as wf:
     title = input("Enter the title of the article:\n").strip()
     url = input("Enter the URL of the article:\n").strip()
-    os.system(f"bash wget.sh {url}")
+    os.system(f"./recursive-wget.sh {url}")
     fixed_url = url
     if url.startswith('http'):
         fixed_url = fixed_url.replace("https://", "")
