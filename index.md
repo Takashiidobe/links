@@ -17,6 +17,10 @@
 - [Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html) [Backup](./backups/people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
 - [Introduction to Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) [Backup](./backups/ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/index.html)
 
+## Blogs
+
+- [The Morning Paper](https://blog.acolyer.org/) [Backup](./backups/blog.acolyer.org/index.html)
+
 ## Learning and Development
 
 - [The XY Problem](https://xyproblem.info/) [Backup](./backups/xyproblem.info/index.html)
@@ -142,4 +146,3 @@
 - [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/) [Backup](./backups/cs.lmu.edu/~ray/notes/nasmtutorial/index.html)
 - [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) [Backup](./backups/www.philippflenker.com/hecto/index.html)
 - [Yarchive](https://yarchive.net) [Backup](./backups/yarchive.net/comp/index.html)
-- [The morning paper](https://blog.acolyer.org/) [Backup](./backups/blog.acolyer.org/index.html)
