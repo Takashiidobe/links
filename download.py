@@ -3,8 +3,6 @@
 from sys import argv
 from newspaper import Article
 from os import system
-from urllib.parse import urlparse
-from re import sub
 
 script, url = argv
 
@@ -17,7 +15,6 @@ print(article.html)
 if url.startswith('http'):
     url = url.replace("https://", "")
     url = url.replace("http://.", "")
-
 
 stripped_url = url
 

@@ -16,6 +16,17 @@
 - [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) [Backup](./backups/ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/index.html)
 - [Algorithms for Big Data](http://people.seas.harvard.edu/~minilek/cs229r/fall15/index.html) [Backup](./backups/people.seas.harvard.edu/~minilek/cs229r/fall15/index.html)
 - [Introduction to Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) [Backup](./backups/ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/index.html)
+- [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html) [Backup](./backups/www.cs.umd.edu/class/fall2022/cmsc430/index.html)
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/) [Backup](./backups/en.algorithmica.org/hpc.html)
+- [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/resources/introduction-finite-automata-regular-expressions/) [Backup](./backups/ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/resources/introduction-finite-automata-regular-expressions/index.html)
+
+## Algorithms
+
+- [Algorithms for Competitive Programming](https://cp-algorithms.com/) [Backup](./backups/cp-algorithms.com/index.html)
+
+## Assembly
+
+- [x86_64 Assembly Instruction Reference](https://www.felixcloutier.com/x86/index.html) [Backup](./backups/www.felixcloutier.com/x86/index.html)
 
 ## Blogs
 
@@ -62,17 +73,16 @@
 - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html) [Backup](./backups/norvig.com/lispy.html)
 - [Build your own Lisp](http://www.buildyourownlisp.com/contents) [Backup](./backups/www.buildyourownlisp.com/contents.html)
 - [Simple but Powerful Pratt Parsing](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html) [Backup](./backups/matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
+- [Compiler in WebAssembly](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html) [Backup](./backups/build-your-own/webassembly-compiler.html)
 
 ## Databases
 
 - [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
 - [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
 
-## Programming Languages
-
 ### C
 
-- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) [Backup](./backups/beej.us/guide/bgc/html/index.html)
+- [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/) [Backup](./backups/beej.us/guide/bgc/html/index-wide.html)
 - [Notes on Data Structures and Programming Techniques](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) [Backup](./backups/www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
 ### Haskell
@@ -94,13 +104,25 @@
 
 ## Computer Networking
 
-- [Low-Level Academy](https://lowlvl.org/) [Backup](./backups/lowlvl.org/index.html)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) [Backup](./backups/beej.us/guide/bgnet/html/index.html)
+- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/) [Backup](./backups/beej.us/guide/bgnet/html/index-wide.html)
+- [Build your own TCP/IP Stack](./backups/build-your-own/tcp-ip-stack/part-1-ethernet-and-arp.html)
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/) [Backup](./backups/cloudflare/index.html)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html) [Backup](./backups/book.systemsapproach.org/index.html)
+- [Http Learn your Browsers language](./backups/zines/http-learn-your-browsers-language.pdf)
+- [Low-Level Academy](https://lowlvl.org/) [Backup](./backups/lowlvl.org/index.html)
+- [Networking](./backups/zines/networking.pdf)
+- [Tcpdump](./backups/zines/tcpdump.pdf)
 
 ## Operating Systems
 
 - [Beej's Guide to Unix IPC](https://beej.us/guide/bgipc/html/single/bgipc.html) [Backup](./backups/beej.us/guide/bgipc/html/single/bgipc.html)
+- [Clang Docs](https://clang.llvm.org/docs/index.html) [Backup](./backups/clang.llvm.org/docs/index.html)
+- [GCC Docs](https://gcc.gnu.org/onlinedocs/gcc/) [Backup](./backups/gcc.gnu.org/onlinedocs/gcc/index.html)
+- [The GNU C++ Library](https://gcc.gnu.org/onlinedocs/libstdc++/) [Backup](./backups/gcc.gnu.org/onlinedocs/libstdc++/index.html)
+- [The Linux Kernel](https://tldp.org/guides.html) [Backup](./backups/tlk-0.8-3.html/index.html)
+- [Bite Size Linux](./backups/zines/bite-size-linux.pdf)
+- [Debugging Tools You'll Love](./backups/zines/linux-debugging-tools-youll-love.pdf)
+- [Spying on your programs with strace](./backups/zines/spying-on-your-programs-with-strace.pdf)
 
 ## Distributed Systems
 
@@ -138,11 +160,22 @@
 ## Statistics
 
 - [Think Bayes](http://allendowney.github.io/ThinkBayes2/index.html) [Backup](./backups/allendowney.github.io/ThinkBayes2/index.html)
-
-## Assembly
-
 - [Some assembly Required](https://github.com/hackclub/some-assembly-required) [Backup](./backups/some-assembly-required/index.html)
 - [Ray Tracing in One Weekend](https://misterdanb.github.io/raytracinginrust/) [Backup](./backups/misterdanb.github.io/raytracinginrust/index.html)
 - [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/) [Backup](./backups/cs.lmu.edu/~ray/notes/nasmtutorial/index.html)
 - [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/) [Backup](./backups/www.philippflenker.com/hecto/index.html)
 - [Yarchive](https://yarchive.net) [Backup](./backups/yarchive.net/comp/index.html)
+- [A journey in Creating an Operating System Kernel](https://539kernel.com/book/index.html) [Backup](./backups/539kernel.com/book/index.html)
+- [Build your own Regular Expression Matcher](./backups/build-your-own/a-regular-expression-matcher.html)
+- [Build your own containers](./backups/build-your-own/build-your-own-containers.html)
+- [Build your own DNS Resolver](./backups/build-your-own/dnsguide/chapter1.html)
+- [Build your own Lisp](./backups/build-your-own/mal/process/guide.html)
+- [Regular Expression Matching can be Simple and Fast](./backups/build-your-own/regular-expression-matching-can-be-simple-and-fast.html)
+- [The Little Book of OS development](./backups/build-your-own/the-little-book-about-os-development.html)
+- [The Very Basics of a Terminal Emulator](./backups/build-your-own/the-very-basics-of-a-terminal-emulator.html)
+- [Write your own System Call](./backups/build-your-own/write-a-system-call.html)
+- [Write your own Virtual Machine](./backups/build-your-own/write-your-own-virtual-machine.html)
+- [Write your own Git](./backups/build-your-own/write-yourself-a-git.html)
+- [Write your own Linux Debugger](./backups/build-your-own/writing-a-linux-debugger/part-1.html)
+- [Write your own MQTT Broker](./backups/build-your-own/writing-an-mqtt-broker/part-1.html)
+- [Become a Select Star](./backups/zines/become-a-select-star.pdf)
