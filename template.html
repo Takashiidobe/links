@@ -42,7 +42,7 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #010101;
+    --background-color: #999;
     --color: #eee;
   }
 }
@@ -88,11 +88,6 @@ tr.header, tr:hover {
   /* Add a grey background color to the table header and on hover */
   background-color: #9f9f9f;
 }
-
-li {
-  padding: 5px 0;
-  font-size: 20px;
-}
 </style>
 </head>
 <body>
@@ -106,20 +101,18 @@ $body$ $for(include-after)$ $include-after$ $endfor$
 let params = new URLSearchParams(document.location.search);
 let query = params.get("q") || "";
 
-document.getElementsByTagName("input")[0].value = query;
 var input = document.getElementsByTagName("input")[0];
+input.value = query;
+var h2s = document.body.getElementsByTagName("h2");
+var lis = document.body.getElementsByTagName("li");
+var uls = document.body.getElementsByTagName("ul");
 
 function filterInput() {
   var filter = input.value.toUpperCase();
-  var h2s = document.body.getElementsByTagName("h2");
+
   for (var h2 of h2s) {
     h2.style.display = "";
   }
-  var h3s = document.body.getElementsByTagName("h3");
-  for (var h3 of h3s) {
-    h3.style.display = "";
-  }
-  var lis = document.body.getElementsByTagName("li");
 
   // Loop through all table rows, and hide those who don't match the search query
   for (var li of lis) {
@@ -132,10 +125,8 @@ function filterInput() {
     }
     li.style.display = hide ? "none" : "";
   }
-  var uls = document.body.getElementsByTagName("ul");
   for (var ul of uls) {
     if (Array.from(ul.children).every(li => li.style.display == "none")) {
-      console.log(ul.previousSibling);
       ul.previousElementSibling.style.display = "none";
     }
   }
