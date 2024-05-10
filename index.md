@@ -29,6 +29,8 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 - [CMSC 430: Design and Implementation of Programming Languages](https://www.cs.umd.edu/class/fall2022/cmsc430/index.html) [Backup](./backups/www.cs.umd.edu/class/fall2022/cmsc430/index.html)
 - [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/) [Backup (Last retrieved 2024-03-03)](./backups/www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/index.html)
 - [CS 173 Programming Languages](https://cs.brown.edu/courses/cs173/2021/index.html) [Backup](./backups/cs.brown.edu/courses/cs173/2021/index.html)
+- [15-745 Optimizing Compilers for Modern Architectures](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/syllabus.html) [Backup (Last retrieved 2024-04-04)](./backups/www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/syllabus.html)
+- [15-411 Compiler Design CMU](http://www.cs.cmu.edu/~janh/courses/411/23/index.html) [Backup (Last retrieved 2024-04-04)](./backups/www.cs.cmu.edu/~janh/courses/411/23/index.html)
 - [Pattern Matching in Rust](https://github.com/yorickpeterse/pattern-matching-in-rust) [Backup (Last retrieved 2024-01-01)](./backups/github.com/yorickpeterse/pattern-matching-in-rust/blob/main/jacobs2021/src/lib.rs)
 
 ### Computer Architecture
@@ -52,7 +54,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 - [The Databaseology Lectures](https://db.cs.cmu.edu/seminar2015/) [Backup](./backups/db.cs.cmu.edu/seminar2015/index.html)
 - [Time Series Database Lectures](https://db.cs.cmu.edu/seminar2017/) [Backup](./backups/db.cs.cmu.edu/seminar2017/index.html)
 - [Hardware Accelerated Database Lectures](https://db.cs.cmu.edu/seminar2018/) [Backup](./backups/db.cs.cmu.edu/seminar2018/index.html)
-- [CMU Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2020/) [Backup](./backups/15721.courses.cs.cmu.edu/spring2020/index.html)
+- [CMU 15-721 Spring 2024 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/) [Backup (Last retrieved 2024-05-09)](./backups/15721.courses.cs.cmu.edu/spring2024/index.html)
 - [CMU Database Systems](https://15445.courses.cs.cmu.edu/fall2019/schedule.html) [Backup](./backups/15445.courses.cs.cmu.edu/fall2019/schedule.html)
 - [CMU Databases Seminar](https://db.cs.cmu.edu/seminar2022/) [Backup](./backups/db.cs.cmu.edu/seminar2022/index.html)
 - [Practical Storage Engine Design & Implementation](./backups/libgavran/output/book.html)
@@ -60,7 +62,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 ### Distributed Systems
 
 - [Distributed Systems Cambridge](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf) [Backup](./backups/distributed-systems/index.html)
-- [Distributed Systems](http://nil.csail.mit.edu/6.824/2022/) [Backup](./backups/nil.csail.mit.edu/6.824/2022/index.html)
+- [Distributed Systems MIT (6.824)](http://nil.csail.mit.edu/6.824/2022/) [Backup](./backups/nil.csail.mit.edu/6.824/2022/index.html)
 - [High Scalability](https://highscalability.com/) [Backup (Last retrieved 2024-03-11)](./backups/highscalability.com/index.html)
 - [All Things Distributed](https://www.allthingsdistributed.com/) [Backup (Last retrieved 2024-02-29)](./backups/www.allthingsdistributed.com/index.html)
     - [Building and operating a pretty big storage system called S3](https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html) [Backup (Last retrieved 2024-02-29)](./backups/www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html)
@@ -222,6 +224,7 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 
 - [InnoDB Internals](https://blog.jcole.us/innodb/) [Backup](./backups/blog.jcole.us/innodb/index.html)
 - [chidb](http://chi.cs.uchicago.edu/chidb/index.html) [Backup](./backups/chi.cs.uchicago.edu/chidb/index.html)
+- [Null Bitmap](https://buttondown.email/jaffray/archive/) [Backup (Last retrieved 2024-03-20)](./backups/buttondown.email/jaffray/archive/index.html)
 
 ## SQL
 
@@ -288,25 +291,31 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 - [Tcpdump](./backups/zines/tcpdump.pdf)
 - [How DNS Works](./backups/zines/how-dns-works.pdf)
 - [Linux Advanced Routing and Traffic Control HOWTO](https://lartc.org/howto/) [Backup](./backups/lartc.org/howto/index.html)
+- [Digital Communication Systems Lecture Notes](http://web.mit.edu/6.02/www/currentsemester/handouts.shtml) [Backup (Last retrieved 2024-03-23)](./backups/digital-communication-systems-lecture-notes.pdf)
 
 ## Operating Systems
 
+- [6.1810 Operating System Engineering](https://pdos.csail.mit.edu/6.1810/2023/schedule.html) [Backup (Last retrieved 2024-03-23)](./backups/pdos.csail.mit.edu/6.1810/2023/schedule.html)
+- [6502 Series](./backups/ben-eater-vids/6502/index.html)
 - [A journey in Creating an Operating System Kernel](https://539kernel.com/book/index.html) [Backup](./backups/539kernel.com/book/index.html)
 - [Abseil Docs](https://abseil.io/) [Backup](./backups/abseil.io/index.html)
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/) [Backup](./backups/journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/index.html)
+- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) [Backup (Last retrieved 2024-02-01)](./backups/beej.us/guide/bggdb/index.html)
 - [Beej’s Guide to Unix IPC](https://beej.us/guide/bgipc/html/single/bgipc.html) [Backup](./backups/beej.us/guide/bgipc/html/single/bgipc.html)
 - [Bite Size Linux](./backups/zines/bite-size-linux.pdf)
+- [Bootloader series](./backups/bootloader/index.html)
 - [Build your own containers](./backups/build-your-own/build-your-own-containers.html)
 - [Concurrency Freaks](http://concurrencyfreaks.blogspot.com/) [Backup](./backups/concurrencyfreaks.blogspot.com/index.html)
 - [Debugging Tools You’ll Love](./backups/zines/linux-debugging-tools-youll-love.pdf)
-- [Beej's Quick Guide to GDB](https://beej.us/guide/bggdb/) [Backup (Last retrieved 2024-02-01)](./backups/beej.us/guide/bggdb/index.html)
+- [Error Detection Series](./backups/ben-eater-vids/error-detection/index.html)
 - [LWN Kernel](https://lwn.net/Kernel/Index/) [Backup](./backups/lwn.net/Kernel/Index/index.html)
 - [LWN Security](https://lwn.net/Security/Index/) [Backup](./backups/lwn.net/Kernel/Security/index.html)
 - [Linux Containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html) [Backup](./backups/blog.lizzie.io/index.html)
 - [Linux Kernel Labs](https://linux-kernel-labs.github.io/refs/heads/master/index.html) [Backup](./backups/linux-kernel-labs.github.io/refs/heads/master/index.html)
-- [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust) [Backup (Last retrieved 2024-01-01)](./backups/litchipi.site/serie/containers_in_rust.html)
+- [Lion's Commentary on Unix](http://warsus.github.io/lions-/) [Backup (Last retrieved 2024-02-09)](./backups/lions-/index.html)
 - [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) [Backup](./backups/osblog.stephenmarz.com/index.html)
 - [Making the Tokio Scheduler 10x faster](https://tokio.rs/blog/2019-10-scheduler) [Backup](./backups/tokio.rs/blog/2019-10-scheduler/index.html)
+- [Networking Series](./backups/ben-eater-vids/networking/index.html)
 - [Spying on your programs with strace](./backups/zines/spying-on-your-programs-with-strace.pdf)
 - [The Linux Kernel](https://tldp.org/guides.html) [Backup](./backups/tlk-0.8-3.html/index.html)
 - [The Little Book of OS development](https://littleosbook.github.io/) [Backup](./backups/build-your-own/the-little-book-about-os-development.html)
@@ -314,14 +323,11 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 - [The Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/) [Backup](./backups/tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/index.html)
 - [The Very Basics of a Terminal Emulator](./backups/build-your-own/the-very-basics-of-a-terminal-emulator.html)
 - [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/html/understand/) [Backup](./backups/www.kernel.org/doc/gorman/html/understand/index.html)
+- [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust) [Backup (Last retrieved 2024-01-01)](./backups/litchipi.site/serie/containers_in_rust.html)
 - [Writing an OS in Rust](https://os.phil-opp.com/) [Backup](./backups/os.phil-opp.com/index.html)
-- [Lion's Commentary on Unix](http://warsus.github.io/lions-/) [Backup (Last retrieved 2024-02-09)](./backups/lions-/index.html)
-- [xv6 source dive](./backups/xv6-source-dive/index.html)
-- [6502 Series](./backups/ben-eater-vids/6502/index.html)
-- [Error Detection Series](./backups/ben-eater-vids/error-detection/index.html)
-- [Networking Series](./backups/ben-eater-vids/networking/index.html)
-- [Bootloader series](./backups/bootloader/index.html)
+- [Xv6 Videos] [Backup (Last retrieved 2024-05-09)](./backups/xv6-vids/index.html)
 - [Yarchive](https://yarchive.net) [Backup](./backups/yarchive.net/comp/index.html)
+- [xv6 source dive](./backups/xv6-source-dive/index.html)
 
 ## Distributed Systems
 
@@ -388,4 +394,6 @@ viewport: width=device-width, initial-scale=1.0, user-scalable=yes
 - [Email](./backups/email.pdf)
 - [The Internet](./backups/internet.pdf)
 - [Number Theory](./backups/number-theory.pdf)
+
+## Misc
 
